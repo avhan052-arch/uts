@@ -50,4 +50,4 @@ Struktur direktori utama dalam proyek ini adalah sebagai berikut:
 ```
 
 ---
-Dibuat Oleh *Hasan* dengan ❤️ menggunakan [Flutter](https://flutter.dev/).
+Dibuat Oleh *Avhan* dengan ❤️ menggunakan [Flutter](https://flutter.dev/).
