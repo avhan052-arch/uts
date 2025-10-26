@@ -10,6 +10,12 @@ Aplikasi ini memiliki beberapa fitur menarik, di antaranya:
 *   **Efek Hujan Parallax**: Menampilkan animasi hujan dengan efek parallax di latar belakang untuk pengalaman visual yang lebih hidup.
 *   **Animasi Halus**: Dibuat dengan `motion` untuk memastikan semua transisi dan animasi berjalan dengan lancar dan responsif.
 
+## 🖼️ Screenshot
+
+Berikut adalah tampilan dari aplikasi:
+
+![Screenshot Aplikasi](assets/ss.png)
+
 ## 📚 Library yang Digunakan
 
 Proyek ini dibangun dengan bantuan beberapa library open-source yang luar biasa:
