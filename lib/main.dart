@@ -96,10 +96,10 @@ class MainApp extends StatelessWidget {
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      const CircleAvatar(
+                      CircleAvatar(
                         radius: 70,
-                        backgroundImage: NetworkImage(
-                          "https://i.pravatar.cc/150?img=4",
+                        backgroundImage: const AssetImage(
+                          'assets/profile.png',
                         ),
                       ),
                       const SizedBox(height: 20),
